@@ -35,6 +35,6 @@
               -R $(arg roll) -P $(arg pitch) -Y $(arg yaw)"/>
 
   <!--launch rviz-->
-  <node name="rviz" pkg="rviz" type="rviz" args="$(find my_robot)/catkin_ws/src/my_robot.rviz"/> 
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find my_robot)/launch/my_robot.rviz"/> 
 
 </launch>
