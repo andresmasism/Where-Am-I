@@ -25,7 +25,7 @@
   <!-- Overall Filter -->
 
     <param name="min_particles" value="100"/>
-    <param name="max_particles" value="400"/>
+    <param name="max_particles" value="300"/>
     <param name="update_min_d"  value="0.2"/>
     <param name="update_min_a"  value="0.5"/>
 
