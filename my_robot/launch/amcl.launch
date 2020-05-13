@@ -17,7 +17,7 @@
   <param name="initial_pose_x" value="-10"/>
   <param name="initial_pose_y" value="0"/>
   <param name="initial_pose_a" value="-1.5708"/>
-
+   
   <!-- Overall Filter -->
 
     <param name="min_particles" value="100"/>
